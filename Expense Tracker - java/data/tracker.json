@@ -1,0 +1,12 @@
+{"expenses": [
+    {
+        "date": "2025-02-01",
+        "amount": 200,
+        "category": "food"
+    },
+    {
+        "date": "2025-03-02",
+        "amount": 40,
+        "category": "clothes"
+    }
+]}
